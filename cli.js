@@ -1,4 +1,5 @@
-const console = require('console');
+#!/usr/bin/env node
+
 console.log("\tArthur Fücher");
 console.log("\t>>Agile Dev");
 console.log("\thttps://github.com/afucher");
