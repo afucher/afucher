@@ -1,0 +1,14 @@
+{
+  "name": "afucher",
+  "version": "1.0.0",
+  "description": "Arthur Fücher personal info",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arthur Fücher",
+  "license": "ISC",
+  "bin": {
+    "afucher": "./cli.js"
+  }
+}
