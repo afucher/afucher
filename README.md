@@ -6,7 +6,7 @@
 
 
 * 💜  Hoje trabalho como Engenheiro de Software no Nunbak .
-* 🙏  Participo da organização do [High5Devs](high5devs.com.br).
+* 🙏  Participo da organização do [High5Devs](http://high5devs.com/).
 * 🌐  Tenho [um blog](https://afucher.github.io) onde ~~tento~~ compartilho o que estou aprendendo/aprendi.
 * 😀  Mantenho um projeto em C# para facilitar iteração com usuário via CLI [![Inquirer](https://badgen.net/badge/project/Inquirer?icon=github&label)](https://github.com/afucher/Inquirer)
 * ❓ Quer me mandar alguma pergunta? Abre uma issue aqui [![Send your question](https://badgen.net/github/issues/afucher/afucher)](https://github.com/afucher/afucher/issues)
