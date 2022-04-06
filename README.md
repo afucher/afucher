@@ -5,7 +5,7 @@
 **Agilista e Desenvolvedor, gosto de experimentar novas práticas, tecnologias e compartilhar sobre.**  
 
 
-* 💜  Hoje trabalho como Engenheiro de Software no Nunbak .
+* 💜  Hoje trabalho como Engenheiro de Software no Nubank.
 * 🙏  Participo da organização do [High5Devs](http://high5devs.com/).
 * 🌐  Tenho [um blog](https://afucher.github.io) onde ~~tento~~ compartilho o que estou aprendendo/aprendi.
 * 😀  Mantenho um projeto em C# para facilitar iteração com usuário via CLI  [![Inquirer](https://badgen.net/badge/project/Inquirer?icon=github&label)](https://github.com/afucher/Inquirer) ![Nuget Inquirer](https://badgen.net/nuget/v/Inquirer/latest)
