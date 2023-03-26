@@ -5,12 +5,23 @@
 **Agilista e Desenvolvedor, gosto de experimentar novas práticas, tecnologias e compartilhar sobre.**  
 
 
-* 💜  Hoje trabalho como Engenheiro de Software no Nubank.
-* 🙏  Participo da organização do [High5Devs](http://high5devs.com/).
-* 🌐  Tenho [um blog](https://afucher.github.io) onde ~~tento~~ compartilho o que estou aprendendo/aprendi.
-* 😀  Mantenho um projeto em C# para facilitar iteração com usuário via CLI  [![Inquirer](https://badgen.net/badge/project/Inquirer?icon=github&label)](https://github.com/afucher/Inquirer) ![Nuget Inquirer](https://badgen.net/nuget/v/Inquirer/latest)
-* 😀  Mantenho um projeto em JS/SVG para o desenho de mapa astrológico  [![AstroChart](https://badgen.net/badge/project/AstroChart?icon=github&label)](https://github.com/AstroDraw/AstroChart) 
-* ❓ Quer me mandar alguma pergunta? Abre uma issue aqui [![Send your question](https://badgen.net/github/open-issues/afucher/afucher)](https://github.com/afucher/afucher/issues)
+💜  Hoje trabalho como Developer Advocate 🥑 no Nubank.  
+🌐  Tenho [um blog](https://dev.to/afucher) onde ~~tento~~ compartilho o que estou aprendendo/aprendi.
+
+### Open-source
+[![AstroChart](https://badgen.net/badge/project/AstroChart?icon=github&label)](https://github.com/AstroDraw/AstroChart)
+
+Biblioteca para desenho de mapa astrológico
+
+---
+
+[![Kovacs](https://badgen.net/badge/project/Kovacs?icon=github&label)](https://github.com/afucher/kovacs) 
+
+Extensão para navegador que adiciona um painel lateral no app [Carbon](carbon.now.sh)
+
+---
+
+❓ Quer me mandar alguma pergunta? Abre uma issue aqui [![Send your question](https://badgen.net/github/open-issues/afucher/afucher)](https://github.com/afucher/afucher/issues)
 
 
 
