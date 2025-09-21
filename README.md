@@ -2,22 +2,25 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/thur?style=flat-square)
 ![Twitch](https://img.shields.io/twitch/status/afucher?style=flat-square)
 
-**Agilista e Desenvolvedor, gosto de experimentar novas práticas, tecnologias e compartilhar sobre.**  
+**Desenvolvedor, gosto de experimentar novas práticas, tecnologias e compartilhar sobre.**  
 
 
-💜  Hoje trabalho como Developer Advocate 🥑 no Nubank.  
+💜  Hoje trabalho como Sr. Software Engineer 🥑 no Nubank.  
+💚  Organizador da [Clojure BR](www.clojure-brasil.com.br)
 🌐  Tenho [um blog](https://dev.to/afucher) onde ~~tento~~ compartilho o que estou aprendendo/aprendi.
 
+
 ### Open-source
+[![clojure-repl-intellij](https://badgen.net/badge/project/clojure-repl-intellij?icon=github&label)](https://github.com/afucher/clojure-repl-intellij)
+
+Plugin que adiciona suporte a Clojure REPL para IntelliJ 
+
+---
+
 [![AstroChart](https://badgen.net/badge/project/AstroChart?icon=github&label)](https://github.com/AstroDraw/AstroChart)
 
 Biblioteca para desenho de mapa astrológico
 
----
-
-[![Kovacs](https://badgen.net/badge/project/Kovacs?icon=github&label)](https://github.com/afucher/kovacs) 
-
-Extensão para navegador que adiciona um painel lateral no app [Carbon](carbon.now.sh)
 
 ---
 
